@@ -1,6 +1,6 @@
 # About
 
-### Hi there 👋, I'm Abhilash Gupta
+### Hi there <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Mario_Hello_Big.gif' alt='hello' height='30'>, I'm Abhilash Gupta
 #### Web Developer 🧑🏻‍💻
 
 Graduation in B. Tech in Computer Science
