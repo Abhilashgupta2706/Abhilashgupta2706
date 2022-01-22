@@ -3,10 +3,10 @@
 ### Hi there <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Mario_Hello_Big.gif' alt='hello' height='30'>
 #### I'm a Web Developer <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Developer.gif' alt='developer' height='30'>
 
-Graduation in B. Tech in Computer Science
+Graduated in B. Tech in Computer Science. </br>
 I'm a web enthusiast who loves to explore new technologies and is always ready to learn new programming languages.
 
-#### Skills
+#### Skills 
 
 * Web Designing
 * UI UX Design
