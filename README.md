@@ -1,8 +1,15 @@
-### Hi there 👋, I'm Abhilash Gupta
-#### Web developer
-Graduation in B. Tech in Computer Science I'm a web enthusiast who loves to explore new technologies and is always ready to learn new programming languages.
+## Hi there 👋, I'm Abhilash Gupta
+### Web developer
 
-Skills: HTML | CSS | JavaScript | Python | Firebase | Figma | Adobe XD | Bootstrap | WordPress
+Graduation in B. Tech in Computer Science
+I'm a web enthusiast who loves to explore new technologies and is always ready to learn new programming languages.
+
+#### Skills
+
+* Web Designing
+* UI UX Design
+* Problem Solving skills
+* Front-end web Development
 
 - 🔭 I’m currently working on Detection of Gingiva Phenotype using Deep Learning 
 - 🌱 I’m currently learning Back end development, DSA in Python, & Java 
