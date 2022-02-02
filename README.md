@@ -32,3 +32,5 @@ I'm a web enthusiast who loves to explore new technologies and is always ready t
 [![Abhilash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashgupta2706&layout=compact)](https://github.com/Abhilashgupta2706/github-readme-stats)
 
 [![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilashgupta2706&show_icons=true&theme=tokyonight)](https://github.com/Abhilashgupta2706/github-readme-stats)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhilashguta2706&label=PROFILE%20VIEWS&color=4acfff&style=flat" alt="ItsFRZ" /> </p>
