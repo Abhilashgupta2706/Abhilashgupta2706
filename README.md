@@ -29,7 +29,7 @@ I'm a web enthusiast who loves to explore new technologies and is always ready t
 [<img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Twitter%20-%20Gray.png' alt='twitter' height='30'>](https://twitter.com/abhilashgupta27)
 [<img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Discord%20-%20Gray.png' alt='discord' height='30'>](https://discord.gg/77MQq2b3aT)  
 
-[![Abhilash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashgupta2706&layout=compact)](https://github.com/Abhilashgupta2706/github-readme-stats)
+![Abhilash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashgupta2706&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 [![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilashgupta2706&show_icons=true&theme=tokyonight)](https://github.com/Abhilashgupta2706/github-readme-stats)
 
