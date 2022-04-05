@@ -2,22 +2,22 @@
 
 ## Hi there <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Mario_Hello_Big.gif' alt='hello' height='30'>
 
-#### I'm a Web Developer <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Developer.gif' alt='developer' height='30'>
+#### I'm a Full-Stack Developer <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Developer.gif' alt='developer' height='30'>
 
 Graduated in B. Tech in Computer Science. </br>
 I'm a web enthusiast who loves to explore new technologies and is always ready to learn new programming languages.
 
 ## Skills <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Skills.gif' alt='skills' height='30'>
 
-* Web Designing
+* Web Development
 * UI UX Design
 * Problem Solving skills
-* Front-end web Development
+* API Developement
 
 ## Little Bit More
 
-- 🔭 I’m currently working on **Detection of Gingiva Phenotype using Deep Learning** 
-- 🌱 I’m currently learning **Back-end development, DSA in Python, & Java** 
+- 🔭 I’m currently working on **Detection of Gingiva Phenotype using Deep Learning** as my **final year** project
+- 🌱 I’m currently learning **Back-end development & DSA in Python** 
 - 👯 I’m looking to collaborate on **Web development** 
 - 📫 How to reach me: **mail2abhilashgupta@gmail.com** | [Portfolio Website](https://abhilashgupta.ml/)
 
