@@ -4,21 +4,21 @@
 
 #### I'm a Full-Stack Developer <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Developer.gif' alt='developer' height='30'>
 
-Graduated in B. Tech in Computer Science. </br>
-I'm a web enthusiast who loves to explore new technologies and is always ready to learn new programming languages.
+Proficient in Web and Android Development with 2 years of hands-on experience.
 
 ## Skills <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Skills.gif' alt='skills' height='30'>
 
-* Web Development
 * UI UX Design
+* Web Development
+* Android Development
+* API Integration
+* Database Management
 * Problem Solving skills
-* API Developement
 
 ## Little Bit More
 
-- 🔭 I’m currently working on **Detection of Gingiva Phenotype using Deep Learning** as my **final year** project
-- 🌱 I’m currently learning **Back-end development & DSA in Python** 
-- 👯 I’m looking to collaborate on **Web development** 
+- 🔭 I’m currently working as a full time **Software Developer** in **Pune, MH**
+- 🌱 I’m currently gaining experience in **MEAN stack and Android Development** 
 - 📫 How to reach me: **mail2abhilashgupta@gmail.com** | [Portfolio Website](https://abhilash-gupta.web.app/)
 
 ## Social Links <img src='https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Earth.gif' alt='social' height='30'>
