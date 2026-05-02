@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github.com/Abhilashgupta2706/Abhilashgupta2706/blob/main/icons/Mario_Hello_Big.gif" alt="Hello Animation" height="40" />
   <h2>Hi there! I'm Abhilash Gupta 👋</h2>
-  <p><em>Transforming ideas into scalable, cloud-powered realities with 3+ years of expertise in full-stack development and architecture.</em></p>
+  <p><em>Transforming ideas into scalable, cloud-powered realities with 4+ years of expertise in full-stack development and architecture.</em></p>
 </div>
 
 ---
