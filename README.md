@@ -31,6 +31,6 @@ Proficient in Web and Android Development with 2 years of hands-on experience.
 
 ![Abhilash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilashgupta2706&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Abhilash's%20Top%20Languages)
 
-[![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilashgupta2706&show_icons=true&theme=tokyonight)](https://github.com/Abhilashgupta2706/github-readme-stats)
+<!-- [![Abhilash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhilashgupta2706&show_icons=true&theme=tokyonight)](https://github.com/Abhilashgupta2706/github-readme-stats) -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhilashguta2706&label=PROFILE%20VIEWS&color=4acfff&style=flat" alt="ItsFRZ" /> </p>
