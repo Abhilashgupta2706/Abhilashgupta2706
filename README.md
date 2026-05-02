@@ -1,4 +1,4 @@
-# 🚀 [Abhilash Gupta](https://abhilash-gupta.web.app/) - Head of Cloud & Software Architecture | Full Stack Lead
+# 🚀 [ABHILASH GUPTA](https://abhilash-gupta.web.app/) - Head of Cloud & Software Architecture | Full Stack Lead
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFE1&center=true&vCenter=true&width=940&lines=Welcome+to+My+Digital+Universe!;Building+the+Future+with+Code+%26+Cloud;Full+Stack+Lead+%7C+Cloud+Architect;Innovating+Web+%26+Mobile+Solutions" alt="Typing SVG" />
